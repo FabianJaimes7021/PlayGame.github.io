@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FabianJaimes7021-GamesPage.github.io/static/css/main.4bcd3c70.css",
+    "main.js": "/FabianJaimes7021-GamesPage.github.io/static/js/main.52bb2e41.js",
+    "index.html": "/FabianJaimes7021-GamesPage.github.io/index.html",
+    "main.4bcd3c70.css.map": "/FabianJaimes7021-GamesPage.github.io/static/css/main.4bcd3c70.css.map",
+    "main.52bb2e41.js.map": "/FabianJaimes7021-GamesPage.github.io/static/js/main.52bb2e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcd3c70.css",
+    "static/js/main.52bb2e41.js"
+  ]
+}
